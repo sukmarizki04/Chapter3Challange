@@ -1,4 +1,4 @@
-package com.example.wordsapp
+package com.binar.words
 
 import org.junit.Test
 

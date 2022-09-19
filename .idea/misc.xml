@@ -3,16 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1495" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/drawable/ic_grid_layout.xml" value="0.1495" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1495" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/drawable/ic_linear_layout.xml" value="0.1495" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/layout/fragment_letter_list.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/layout/fragment_word_list.xml" value="0.1" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/layout/item_view.xml" value="0.21603260869565216" />
-        <entry key="..\:/Users/Dimas Rizqi/AndroidStudioProjects/WordsApp/app/src/main/res/menu/layout_menu.xml" value="0.25416666666666665" />
-        <entry key="..\:/belajar_java/develoment_sofware/learn_sofware/Chapter3_Challange/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sadew/AndroidStudioProjects/Words/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sadew/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_letter.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/sadew/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_word.xml" value="0.16" />
+        <entry key="..\:/Users/sadew/AndroidStudioProjects/Words/app/src/main/res/layout/letter_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/sadew/AndroidStudioProjects/Words/app/src/main/res/layout/word_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/sadew/AndroidStudioProjects/Words/app/src/main/res/menu/letter_menu.xml" value="0.1" />
+        <entry key="..\:/android_Develoment_BinarAcademy/binar-android-chapter3-nonavcomp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_Develoment_BinarAcademy/binar-android-chapter3-nonavcomp/app/src/main/res/layout/fragment_letter.xml" value="0.1" />
+        <entry key="..\:/android_Develoment_BinarAcademy/binar-android-chapter3-nonavcomp/app/src/main/res/layout/fragment_word.xml" value="0.17074275362318841" />
+        <entry key="..\:/android_Develoment_BinarAcademy/binar-android-chapter3-nonavcomp/app/src/main/res/layout/letter_list_item.xml" value="0.67" />
+        <entry key="..\:/android_Develoment_BinarAcademy/binar-android-chapter3-nonavcomp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1905" />
       </map>
     </option>
   </component>
